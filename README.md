@@ -1,1 +1,1 @@
-# AiLo
+# AiLo Ghost Client
